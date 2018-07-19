@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92237" started-at="2018-07-16T16:23:26Z" finished-at="2018-07-16T16:24:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="92237" started-at="2018-07-16T16:23:26Z" finished-at="2018-07-16T16:24:58Z">
+      <class name="test.LoginTest">
+        <test-method status="PASS" signature="doSetIp()[pri:0, instance:test.LoginTest@6b09bb57]" name="doSetIp" is-config="true" duration-ms="14672" started-at="2018-07-16T16:24:38Z" finished-at="2018-07-16T16:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doSetIp -->
+        <test-method status="PASS" signature="testHomePage()[pri:2, instance:test.LoginTest@6b09bb57]" name="testHomePage" duration-ms="1982" started-at="2018-07-16T16:24:53Z" finished-at="2018-07-16T16:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.LoginTest@6b09bb57]" name="afterTest" is-config="true" duration-ms="2652" started-at="2018-07-16T16:24:55Z" finished-at="2018-07-16T16:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.LoginTest -->
+      <class name="test.YahooPageTest">
+        <test-method status="PASS" signature="doSetIp()[pri:0, instance:test.YahooPageTest@63753b6d]" name="doSetIp" is-config="true" duration-ms="42816" started-at="2018-07-16T16:23:26Z" finished-at="2018-07-16T16:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doSetIp -->
+        <test-method status="PASS" signature="yahooPageTest()[pri:1, instance:test.YahooPageTest@63753b6d]" name="yahooPageTest" duration-ms="26833" started-at="2018-07-16T16:24:08Z" finished-at="2018-07-16T16:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahooPageTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.YahooPageTest@63753b6d]" name="afterTest" is-config="true" duration-ms="3226" started-at="2018-07-16T16:24:35Z" finished-at="2018-07-16T16:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.YahooPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

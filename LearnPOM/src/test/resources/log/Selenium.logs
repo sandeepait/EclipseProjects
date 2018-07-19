@@ -1,0 +1,11 @@
+21:54:08,881 DEBUG devpinoyLogger<strong>{1}</strong>:42 - Opening the url
+21:54:09,120 DEBUG devpinoyLogger<strong>{1}</strong>:17 - YahooPage constructor called
+21:54:09,511 DEBUG devpinoyLogger<strong>{1}</strong>:21 - Clicked on Selenium
+21:54:35,605 DEBUG devpinoyLogger<strong>{1}</strong>:25 - Clicked on Yahoo
+21:54:35,750 DEBUG devpinoyLogger<strong>{1}</strong>:29 - text found: This is DEMO site for TESTING purpose
+21:54:53,654 DEBUG devpinoyLogger<strong>{1}</strong>:42 - Opening the url
+21:54:53,764 DEBUG devpinoyLogger<strong>{1}</strong>:37 - LoginTitle: ALREADY REGISTERED?
+21:54:53,765 DEBUG devpinoyLogger<strong>{1}</strong>:41 - Test for login title: 
+21:54:55,565 DEBUG devpinoyLogger<strong>{1}</strong>:45 - logged in
+21:54:55,639 DEBUG devpinoyLogger<strong>{1}</strong>:51 - home page title: Successfully Logged in...
+21:54:55,639 DEBUG devpinoyLogger<strong>{1}</strong>:55 - verifying home page title

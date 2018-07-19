@@ -1,0 +1,11 @@
+16/07/2018 21:54:08 devpinoyLogger Opening the url
+16/07/2018 21:54:09 devpinoyLogger YahooPage constructor called
+16/07/2018 21:54:09 devpinoyLogger Clicked on Selenium
+16/07/2018 21:54:35 devpinoyLogger Clicked on Yahoo
+16/07/2018 21:54:35 devpinoyLogger text found: This is DEMO site for TESTING purpose
+16/07/2018 21:54:53 devpinoyLogger Opening the url
+16/07/2018 21:54:53 devpinoyLogger LoginTitle: ALREADY REGISTERED?
+16/07/2018 21:54:53 devpinoyLogger Test for login title: 
+16/07/2018 21:54:55 devpinoyLogger logged in
+16/07/2018 21:54:55 devpinoyLogger home page title: Successfully Logged in...
+16/07/2018 21:54:55 devpinoyLogger verifying home page title
