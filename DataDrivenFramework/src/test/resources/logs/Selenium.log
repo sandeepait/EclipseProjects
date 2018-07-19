@@ -1,0 +1,8 @@
+22:24:14,131 DEBUG devpinoyLogger:52 - Config properties file loaded !!!
+22:24:14,135 DEBUG devpinoyLogger:68 - OR properties file loaded !!!
+22:24:18,436 DEBUG devpinoyLogger:84 - Chrome Launched !!!
+22:24:22,982 DEBUG devpinoyLogger:95 - Navigating to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+22:24:24,158 DEBUG devpinoyLogger:103 - Db Connection established !!!
+22:24:24,477 DEBUG devpinoyLogger:140 - Clicking on an Element : bankManagerLoginBtn_CSS
+22:24:24,562 DEBUG devpinoyLogger:191 - Finding Element : addCustBtn_CSS
+22:24:25,837 DEBUG devpinoyLogger:120 - Test Execution Completed
