@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5240" started-at="2018-07-19T17:06:50Z" finished-at="2018-07-19T17:06:55Z">
+  <suite name="Default suite" duration-ms="49666" started-at="2018-08-09T15:37:13Z" finished-at="2018-08-09T15:38:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5240" started-at="2018-07-19T17:06:50Z" finished-at="2018-07-19T17:06:55Z">
-      <class name="singletonWebDriver.NewTest">
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:singletonWebDriver.NewTest@7bbc8656]" name="firstTest" duration-ms="5180" started-at="2018-07-19T17:06:50Z" finished-at="2018-07-19T17:06:55Z">
+    <test name="Default test" duration-ms="49666" started-at="2018-08-09T15:37:13Z" finished-at="2018-08-09T15:38:02Z">
+      <class name="dynamicWebTables.DynamicWebTables">
+        <test-method status="PASS" signature="handleDynamicWebTables()[pri:0, instance:dynamicWebTables.DynamicWebTables@ae45eb6]" name="handleDynamicWebTables" duration-ms="49568" started-at="2018-08-09T15:37:13Z" finished-at="2018-08-09T15:38:02Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- firstTest -->
-      </class> <!-- singletonWebDriver.NewTest -->
+        </test-method> <!-- handleDynamicWebTables -->
+      </class> <!-- dynamicWebTables.DynamicWebTables -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
