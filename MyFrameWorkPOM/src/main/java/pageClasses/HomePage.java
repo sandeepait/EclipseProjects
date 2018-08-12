@@ -28,5 +28,28 @@ public class HomePage {
 	
 	@FindBy(name="pass")
 	WebElement password;
+	
+	@FindBy(how=How.XPATH, using = "//*[@id='loginbutton']")
+	WebElement loginButton;
+	
+	
+	
+	//Clicking on Login Button
+	
+	public void clickLogin() {
+		loginButton.click();
+	}
+	
+	//input user name into the field
+	
+	public void setUserName(String username) {
+		emailOrPhone.sendKeys(username);
+	}
+	
+	//input password into the field
+	
+	public void setPassword(String userPassword) {
+		password.sendKeys(userPassword);
+	}
 
 }
