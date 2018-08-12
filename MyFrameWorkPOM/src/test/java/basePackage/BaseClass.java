@@ -14,6 +14,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
+import utilities.ReadFromExcel;
+
 public class BaseClass {
 
 	public static WebDriver myDriver;
@@ -21,6 +23,8 @@ public class BaseClass {
 	public static Properties config = new Properties();
 	public static FileInputStream fis;
 	public static WebDriverWait explicitWait;
+	public static ReadFromExcel excelRead = new ReadFromExcel(
+			System.getProperty("user.dir") + "\\src\\test\\resources\\ParameterFile\\Patameters.xlsx");
 
 	/*
 	 * Initialize testing by loading config files, launching browser and doing other
@@ -103,7 +107,5 @@ public class BaseClass {
 	 * Defining Keywords
 	 * 
 	 */
-	
-	
 
 }
