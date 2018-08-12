@@ -1,0 +1,12 @@
+10:59:17,265 DEBUG devpinoyLogger:49 - Config File Loaded
+10:59:21,117 DEBUG devpinoyLogger:63 - Chrome Browser Launched!
+10:59:29,101 DEBUG devpinoyLogger:86 - Navigated to the Web Page: Facebook – log in or sign up
+10:59:29,133 DEBUG devpinoyLogger:13 - creating homepage object
+10:59:29,163 DEBUG devpinoyLogger:15 - created homepage object
+10:59:29,163 DEBUG devpinoyLogger:19 - Setting up username
+10:59:29,355 DEBUG devpinoyLogger:21 - username set up
+10:59:29,355 DEBUG devpinoyLogger:24 - Setting up password
+10:59:29,527 DEBUG devpinoyLogger:26 - password entered
+10:59:29,528 DEBUG devpinoyLogger:28 - clicking on login button
+10:59:33,158 DEBUG devpinoyLogger:30 - clicked on login button
+10:59:35,194 DEBUG devpinoyLogger:98 - Test Execution Completed

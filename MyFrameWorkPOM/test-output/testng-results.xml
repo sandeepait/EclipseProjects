@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4065" started-at="2018-08-12T05:29:29Z" finished-at="2018-08-12T05:29:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4065" started-at="2018-08-12T05:29:29Z" finished-at="2018-08-12T05:29:33Z">
+      <class name="testClasses.HomePageTest">
+        <test-method status="PASS" signature="initializeTest()[pri:0, instance:testClasses.HomePageTest@6f1fba17]" name="initializeTest" is-config="true" duration-ms="11853" started-at="2018-08-12T05:29:17Z" finished-at="2018-08-12T05:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:testClasses.HomePageTest@6f1fba17]" name="loginTest" duration-ms="4035" started-at="2018-08-12T05:29:29Z" finished-at="2018-08-12T05:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="windUp()[pri:0, instance:testClasses.HomePageTest@6f1fba17]" name="windUp" is-config="true" duration-ms="1984" started-at="2018-08-12T05:29:33Z" finished-at="2018-08-12T05:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windUp -->
+      </class> <!-- testClasses.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
