@@ -1,21 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="4065" started-at="2018-08-12T05:29:29Z" finished-at="2018-08-12T05:29:33Z">
+  <suite name="Suite" duration-ms="17028" started-at="2018-08-12T16:15:49Z" finished-at="2018-08-12T16:16:06Z">
     <groups>
+      <group name="Functional">
+        <method signature="HomePageTest.loginTest(java.lang.String, java.lang.String)[pri:1, instance:testClasses.HomePageTest@1623b78d]" name="loginTest" class="testClasses.HomePageTest"/>
+      </group> <!-- Functional -->
+      <group name="Regression">
+        <method signature="HomePageTest.loginTest(java.lang.String, java.lang.String)[pri:1, instance:testClasses.HomePageTest@1623b78d]" name="loginTest" class="testClasses.HomePageTest"/>
+      </group> <!-- Regression -->
     </groups>
-    <test name="Test" duration-ms="4065" started-at="2018-08-12T05:29:29Z" finished-at="2018-08-12T05:29:33Z">
+    <test name="Test" duration-ms="17028" started-at="2018-08-12T16:15:49Z" finished-at="2018-08-12T16:16:06Z">
       <class name="testClasses.HomePageTest">
-        <test-method status="PASS" signature="initializeTest()[pri:0, instance:testClasses.HomePageTest@6f1fba17]" name="initializeTest" is-config="true" duration-ms="11853" started-at="2018-08-12T05:29:17Z" finished-at="2018-08-12T05:29:29Z">
+        <test-method status="PASS" signature="initializeTest()[pri:0, instance:testClasses.HomePageTest@1623b78d]" name="initializeTest" is-config="true" duration-ms="12486" started-at="2018-08-12T16:15:36Z" finished-at="2018-08-12T16:15:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeTest -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:testClasses.HomePageTest@6f1fba17]" name="loginTest" duration-ms="4035" started-at="2018-08-12T05:29:29Z" finished-at="2018-08-12T05:29:33Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:testClasses.HomePageTest@1623b78d]" name="loginTest" duration-ms="4055" started-at="2018-08-12T16:15:49Z" data-provider="getData" finished-at="2018-08-12T16:15:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="windUp()[pri:0, instance:testClasses.HomePageTest@6f1fba17]" name="windUp" is-config="true" duration-ms="1984" started-at="2018-08-12T05:29:33Z" finished-at="2018-08-12T05:29:35Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:testClasses.HomePageTest@1623b78d]" name="loginTest" duration-ms="3430" started-at="2018-08-12T16:15:53Z" data-provider="getData" finished-at="2018-08-12T16:15:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:testClasses.HomePageTest@1623b78d]" name="loginTest" duration-ms="3306" started-at="2018-08-12T16:15:56Z" data-provider="getData" finished-at="2018-08-12T16:16:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:testClasses.HomePageTest@1623b78d]" name="loginTest" duration-ms="2686" started-at="2018-08-12T16:16:00Z" data-provider="getData" finished-at="2018-08-12T16:16:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:testClasses.HomePageTest@1623b78d]" name="loginTest" duration-ms="3481" started-at="2018-08-12T16:16:02Z" data-provider="getData" finished-at="2018-08-12T16:16:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="windUp()[pri:0, instance:testClasses.HomePageTest@1623b78d]" name="windUp" is-config="true" duration-ms="0" started-at="2018-08-12T16:16:06Z" finished-at="2018-08-12T16:16:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- windUp -->
