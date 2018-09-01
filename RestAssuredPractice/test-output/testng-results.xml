@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10653" started-at="2018-09-01T07:05:47Z" finished-at="2018-09-01T07:05:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10653" started-at="2018-09-01T07:05:47Z" finished-at="2018-09-01T07:05:58Z">
+      <class name="restAssuredPractice.RestAssuredPractice">
+        <test-method status="PASS" signature="doPracticeRestAssured()[pri:0, instance:restAssuredPractice.RestAssuredPractice@39c0f4a]" name="doPracticeRestAssured" duration-ms="4357" started-at="2018-09-01T07:05:47Z" finished-at="2018-09-01T07:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeRestAssured -->
+        <test-method status="PASS" signature="doPracticeRestAssuredDeleteTweet()[pri:0, instance:restAssuredPractice.RestAssuredPractice@39c0f4a]" name="doPracticeRestAssuredDeleteTweet" duration-ms="4849" started-at="2018-09-01T07:05:52Z" finished-at="2018-09-01T07:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeRestAssuredDeleteTweet -->
+        <test-method status="PASS" signature="doPracticeRestAssuredGetLastTweet()[pri:0, instance:restAssuredPractice.RestAssuredPractice@39c0f4a]" name="doPracticeRestAssuredGetLastTweet" duration-ms="1383" started-at="2018-09-01T07:05:57Z" finished-at="2018-09-01T07:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeRestAssuredGetLastTweet -->
+      </class> <!-- restAssuredPractice.RestAssuredPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
