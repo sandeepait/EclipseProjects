@@ -1,44 +1,39 @@
-21:45:36,836 DEBUG devpinoyLogger:53 - Config File Loaded
-21:45:41,297 DEBUG devpinoyLogger:67 - Chrome Browser Launched!
-21:45:49,305 DEBUG devpinoyLogger:90 - Navigated to the Web Page: Facebook – log in or sign up
-21:45:49,380 DEBUG devpinoyLogger:15 - creating homepage object
-21:45:49,644 DEBUG devpinoyLogger:17 - created homepage object
-21:45:49,645 DEBUG devpinoyLogger:22 - Setting up username
-21:45:50,432 DEBUG devpinoyLogger:24 - username set up
-21:45:50,432 DEBUG devpinoyLogger:27 - Setting up password
-21:45:50,572 DEBUG devpinoyLogger:29 - password entered
-21:45:50,572 DEBUG devpinoyLogger:31 - clicking on login button
-21:45:53,419 DEBUG devpinoyLogger:33 - clicked on login button
-21:45:53,423 DEBUG devpinoyLogger:15 - creating homepage object
-21:45:53,424 DEBUG devpinoyLogger:17 - created homepage object
-21:45:53,425 DEBUG devpinoyLogger:22 - Setting up username
-21:45:53,811 DEBUG devpinoyLogger:24 - username set up
-21:45:53,811 DEBUG devpinoyLogger:27 - Setting up password
-21:45:54,252 DEBUG devpinoyLogger:29 - password entered
-21:45:54,252 DEBUG devpinoyLogger:31 - clicking on login button
-21:45:56,851 DEBUG devpinoyLogger:33 - clicked on login button
-21:45:56,855 DEBUG devpinoyLogger:15 - creating homepage object
-21:45:56,856 DEBUG devpinoyLogger:17 - created homepage object
-21:45:56,857 DEBUG devpinoyLogger:22 - Setting up username
-21:45:56,969 DEBUG devpinoyLogger:24 - username set up
-21:45:56,969 DEBUG devpinoyLogger:27 - Setting up password
-21:45:57,091 DEBUG devpinoyLogger:29 - password entered
-21:45:57,092 DEBUG devpinoyLogger:31 - clicking on login button
-21:46:00,159 DEBUG devpinoyLogger:33 - clicked on login button
-21:46:00,164 DEBUG devpinoyLogger:15 - creating homepage object
-21:46:00,165 DEBUG devpinoyLogger:17 - created homepage object
-21:46:00,165 DEBUG devpinoyLogger:22 - Setting up username
-21:46:00,513 DEBUG devpinoyLogger:24 - username set up
-21:46:00,513 DEBUG devpinoyLogger:27 - Setting up password
-21:46:00,651 DEBUG devpinoyLogger:29 - password entered
-21:46:00,652 DEBUG devpinoyLogger:31 - clicking on login button
-21:46:02,847 DEBUG devpinoyLogger:33 - clicked on login button
-21:46:02,852 DEBUG devpinoyLogger:15 - creating homepage object
-21:46:02,853 DEBUG devpinoyLogger:17 - created homepage object
-21:46:02,853 DEBUG devpinoyLogger:22 - Setting up username
-21:46:02,965 DEBUG devpinoyLogger:24 - username set up
-21:46:02,965 DEBUG devpinoyLogger:27 - Setting up password
-21:46:03,084 DEBUG devpinoyLogger:29 - password entered
-21:46:03,085 DEBUG devpinoyLogger:31 - clicking on login button
-21:46:06,330 DEBUG devpinoyLogger:33 - clicked on login button
-21:46:06,394 DEBUG devpinoyLogger:102 - Test Execution Completed
+21:37:44,727 DEBUG devpinoyLogger:53 - Config File Loaded
+21:37:50,094 DEBUG devpinoyLogger:67 - Chrome Browser Launched!
+21:38:04,052 DEBUG devpinoyLogger:88 - Navigated to the Web Page: Facebook – log in or sign up
+21:38:04,107 DEBUG devpinoyLogger:15 - creating homepage object
+21:38:04,139 DEBUG devpinoyLogger:17 - created homepage object
+21:38:04,139 DEBUG devpinoyLogger:22 - Setting up username
+21:38:04,402 DEBUG devpinoyLogger:24 - username set up
+21:38:04,403 DEBUG devpinoyLogger:27 - Setting up password
+21:38:04,563 DEBUG devpinoyLogger:29 - password entered
+21:38:04,564 DEBUG devpinoyLogger:31 - clicking on login button
+21:38:06,614 DEBUG devpinoyLogger:33 - clicked on login button
+21:38:06,619 DEBUG devpinoyLogger:15 - creating homepage object
+21:38:06,620 DEBUG devpinoyLogger:17 - created homepage object
+21:38:06,620 DEBUG devpinoyLogger:22 - Setting up username
+21:38:06,767 DEBUG devpinoyLogger:24 - username set up
+21:38:06,768 DEBUG devpinoyLogger:27 - Setting up password
+21:38:06,913 DEBUG devpinoyLogger:29 - password entered
+21:38:06,913 DEBUG devpinoyLogger:31 - clicking on login button
+21:38:08,142 DEBUG devpinoyLogger:33 - clicked on login button
+21:38:08,146 DEBUG devpinoyLogger:15 - creating homepage object
+21:38:08,147 DEBUG devpinoyLogger:17 - created homepage object
+21:38:08,148 DEBUG devpinoyLogger:22 - Setting up username
+21:38:08,272 DEBUG devpinoyLogger:24 - username set up
+21:38:08,272 DEBUG devpinoyLogger:27 - Setting up password
+21:38:08,408 DEBUG devpinoyLogger:29 - password entered
+21:38:08,408 DEBUG devpinoyLogger:31 - clicking on login button
+21:38:10,881 DEBUG devpinoyLogger:33 - clicked on login button
+21:38:10,886 DEBUG devpinoyLogger:15 - creating homepage object
+21:38:10,886 DEBUG devpinoyLogger:17 - created homepage object
+21:38:10,887 DEBUG devpinoyLogger:22 - Setting up username
+21:38:11,035 DEBUG devpinoyLogger:24 - username set up
+21:38:11,035 DEBUG devpinoyLogger:27 - Setting up password
+21:38:11,173 DEBUG devpinoyLogger:29 - password entered
+21:38:11,174 DEBUG devpinoyLogger:31 - clicking on login button
+21:38:13,508 DEBUG devpinoyLogger:33 - clicked on login button
+21:38:13,512 DEBUG devpinoyLogger:15 - creating homepage object
+21:38:13,513 DEBUG devpinoyLogger:17 - created homepage object
+21:38:13,513 DEBUG devpinoyLogger:22 - Setting up username
+21:38:24,724 DEBUG devpinoyLogger:100 - Test Execution Completed
